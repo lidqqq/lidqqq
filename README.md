@@ -1,5 +1,5 @@
 
-### Hey, can you click here? 👋
+### Hey, can you click this link? 👋
 
 - 🔭 I’m a web front-end engineer.
 - 📫 How to reach me:
