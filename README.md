@@ -1,5 +1,5 @@
 
-### Hey, can you click this link? 👋
+### Hey, can you click chain icon on the left side of this link? 👋
 
 - 🔭 I’m a web front-end engineer.
 - 📫 How to reach me:
