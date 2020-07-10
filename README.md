@@ -1,7 +1,7 @@
 
 ### Hey 👋
 
-- 🔭 I’m a web front-end developer at tech company in Japan.
+- 🔭 I’m a web front-end engineer.
 - 📫 How to reach me:
   - twitter: https://twitter.com/lidqqq
   - perfonal site: https://lidqqq.dev/
